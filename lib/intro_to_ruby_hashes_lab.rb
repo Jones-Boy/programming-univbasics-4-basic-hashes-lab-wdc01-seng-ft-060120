@@ -7,7 +7,7 @@ def my_hash
 end
 
 def pioneer
-  bug = { :name => ""
+   { :name => "Grace Hopper" }
 end
 
 
